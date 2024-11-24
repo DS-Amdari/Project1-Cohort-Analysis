@@ -1,4 +1,4 @@
-**Cohort analysis**
+**COHORT ANALYSIS PROJECT**
 
 Cohort analysis involves dividing users into distinct groups, or cohorts, based on certain criteria. In this case study, these cohorts are defined by the time of user acquisition. By grouping users together based on time of acquisition, we can study how different cohorts behave in terms of engagement and retention.
 
