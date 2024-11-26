@@ -44,9 +44,9 @@ This can serve as a signal to carryout targetted marketing in countries where mo
 >
 **HOW TO use**
 
-Clone the repository:
+Clone repository:
 > git clone https://github.com/DS-Amdari/Project1-Cohort-Analysis.git
-Install the required dependencies:
+Install dependences:
 > pip install -r requirements.txt
-Run the analysis: Open the jjj.ipynb script to run the KMeans clustering and generate visualizations. Modify the dataset path or customize the number of clusters as needed.
+Open the jjj.ipynb script to run the KMeans clustering and generate visualizations. Modify the dataset path or customize the number of clusters as needed.
 Acknowledgements Customer Data: The dataset used in this project was provided by [amdari]. KMeans Algorithm: Clustering performed using the scikit-learn library.
